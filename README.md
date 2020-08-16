@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# About Me
+### About Me 👋
 
 I graduated from New York University 16' with a B.A. in Individualized Studies. At NYU Gallatin, I successfully defended my colloquium on The Evolution of Mind and Consciousness to my academic advisors and panel members Dr. Peder Anker, Dr. Matthew Stanley and Dr. Rahul Hamid. At UF College of Medicine, I worked in the Kasahara Lab on understanding the function of Nkx2.5 in the Department of Physiology and Genomics.
 
