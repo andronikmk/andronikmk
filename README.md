@@ -10,9 +10,6 @@ My hobbies outside of Data Science include reading, personal fitness, nutrition,
 
 <!-- BLOG-POST-LIST:START -->
 - [🤔 Sentiment Analysis with NLTK, TextBlob and Flair](https://medium.com/@andronikmk/sentiment-analysis-with-nltk-textblob-and-flair-a321d1460867)
-- [Using Machine Learning to Study Real Consumption Earnings, England and Great Britain 1270–1870](https://medium.com/analytics-vidhya/using-machine-learning-to-study-real-consumption-earnings-england-and-great-britain-1270-1870-9ecb2f55f11)
-- [On the lessons learned making a Decision Tree Classifier from scratch 🌱](https://medium.com/swlh/on-the-lessons-learned-making-a-decision-tree-classifier-from-scratch-5cc728e3e482)
-- [The New England Textile Industry](https://medium.com/@andronikmk/the-new-england-textile-industry-1825-60-a7df75c710a8)
 - [Toxic Content Monitoring 🤪](https://upbeat-johnson-6c93ad.netlify.app/projects/toxic-content-monitoring)
 <!-- BLOG-POST-LIST:END -->
 
