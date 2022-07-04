@@ -10,7 +10,7 @@ Currently, I’m working as an Artificial Intelligence Research Engineer at Lock
 
 <!-- BLOG-POST-LIST:START -->
 - [🤔 Sentiment Analysis with NLTK, TextBlob and Flair](https://medium.com/@andronikmk/sentiment-analysis-with-nltk-textblob-and-flair-a321d1460867)
-- [Toxic Content Monitoring 🤪](https://upbeat-johnson-6c93ad.netlify.app/projects/toxic-content-monitoring)
+- [Toxic Content Monitoring ⚗️](https://upbeat-johnson-6c93ad.netlify.app/projects/toxic-content-monitoring)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
